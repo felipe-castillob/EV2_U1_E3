@@ -1,8 +1,8 @@
-a {
+#a_link {
     color: green;
     text-decoration: none;
 }
 
-a:hover {
+#a_link:hover {
     color: red;
 }
